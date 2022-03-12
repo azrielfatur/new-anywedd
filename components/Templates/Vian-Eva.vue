@@ -25,7 +25,7 @@ export default {
         return {
             GuestInvited: '',
             PlayingAudio: false,
-            FileAudio: new Audio('_nuxt/assets/music/Paul Anka  Put Your Head on My Shoulder Cover by The Macarons Project.mp3'),
+            // FileAudio: new Audio('/assets/music/Paul Anka  Put Your Head on My Shoulder Cover by The Macarons Project.mp3'),
 
             SpecialInvited: false,
         }
