@@ -22,12 +22,12 @@ export default {
                 {
                     hid: 'image',
                     name: 'image',
-                    content: '~/assets/img/thumbnail.png'
+                    content: '_nuxt/img/thumbnail.png'
                 },
                 {
                     hid: 'og:image',
                     name: 'og:image',
-                    content: '~/assets/img/thumbnail.png'
+                    content: '_nuxt/img/thumbnail.png'
                 }
             ]
         }
