@@ -22,12 +22,12 @@ export default {
                 {
                     hid: 'image',
                     name: 'image',
-                    content: '~/assets/img/thumbnail.png'
+                    content: 'https://drive.google.com/uc?id=1g_9U1c6gO3UT6Hh03EMnO4gWYvNkMnB5'
                 },
                 {
                     hid: 'og:image',
                     name: 'og:image',
-                    content: '~/assets/img/16436960169351.webp'
+                    content: 'https://drive.google.com/uc?id=1g_9U1c6gO3UT6Hh03EMnO4gWYvNkMnB5'
                 }
             ]
         }
